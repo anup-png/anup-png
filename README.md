@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Anup Raj
 
-<!--
-**anup-png/anup-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | 🌱 Learning AI & Backend Engineering  
+🚀 Love building real-world projects & scalable systems
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+**Frontend:** React.js, Tailwind CSS, Next.js  
+**Backend:** Node.js, Express, FastAPI  
+**Database:** MongoDB, PostgreSQL  
+**DevOps:** Docker, Git, GitHub Actions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me
+📩 Email: your-email@gmail.com  
+💼 LinkedIn: your-linkedin  
+🌐 Portfolio: your-portfolio-link  
