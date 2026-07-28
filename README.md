@@ -82,7 +82,7 @@ AI-powered document assistant — upload PDFs and ask questions using Retrieval-
 `FastAPI` `React` `LangChain` `Gemini` `ChromaDB`
 <br>
 [![Repo](https://img.shields.io/badge/📂_View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anup-png/documind-ai)
-[![Live](https://img.shields.io/badge/🌐_Live_Demo-FF5722?style=flat-square)](#)
+[![Live](https://img.shields.io/badge/🌐_Live_Demo-FF5722?style=flat-square)](https://documind-ai-frontend-zw9n.onrender.com)
 
 ---
 
