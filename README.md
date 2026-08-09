@@ -67,6 +67,34 @@ Building scalable backend systems and AI-powered applications — currently deep
 
 ## 🌟 Featured Projects
 
+---
+
+**🚀 ReviewPilot AI** — *Live AI Application*
+<br>
+An AI-powered review analysis and smart reply system built with an agentic workflow using LangGraph. It classifies customer sentiment, performs deep analysis of negative reviews (emotion, issue, urgency, and escalation), and generates context-aware responses through conditional routing.
+<br>
+
+**Tech Stack**
+<br>
+`Python` `LangGraph` `LangChain` `Mistral AI` `Streamlit`
+
+<br>
+
+**Key Features**
+- 🤖 AI-powered Sentiment Analysis
+- 🔀 Conditional Routing using LangGraph
+- 💬 Context-aware Reply Generation
+- 📊 Negative Review Analysis (Emotion, Issue, Urgency)
+- 🧠 Structured Outputs using Pydantic
+- 🌐 Live Deployment on Render
+
+<br>
+
+[![Repo](https://img.shields.io/badge/📂_View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anup-png/reviewpilot)
+[![Live](https://img.shields.io/badge/🌐_Live_Demo-FF5722?style=flat-square)](https://review-pilot-ciux.onrender.com)
+
+---
+
 **🛠️ ToolkitForU** — *Live Product*
 <br>
 A live, production web app — designed, developed, and deployed independently end-to-end.
