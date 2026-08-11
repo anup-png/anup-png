@@ -2,9 +2,9 @@
 
 # Hi, I'm Anup Raj 👋
 
-### Software Engineer · AI Enthusiast · Java Backend Developer
+### Software Engineer · Agentic AI Builder · Java Backend Developer
 
-Building scalable backend systems and AI-powered applications — currently deep in **Java, Spring Boot, System Design, and Generative AI**.
+Building scalable backend systems and AI-powered applications — currently deep in **Agentic AI, LangGraph, Java, Spring Boot, and System Design**.
 
 [![Website](https://img.shields.io/badge/Website-toolkitforu.com-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://toolkitforu.com)
 [![Email](https://img.shields.io/badge/Email-anups154%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anups154@gmail.com)
@@ -14,10 +14,6 @@ Building scalable backend systems and AI-powered applications — currently deep
 </div>
 
 <br>
-
-<table>
-<tr>
-<td width="42%" valign="top">
 
 ## 🚀 Tech Stack
 
@@ -50,9 +46,11 @@ Building scalable backend systems and AI-powered applications — currently deep
 **AI & Machine Learning**
 <br>
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square)
 ![Vector_Embeddings](https://img.shields.io/badge/Vector_Embeddings-4B0082?style=flat-square)
+![Tavily](https://img.shields.io/badge/Tavily_API-4B0082?style=flat-square)
 
 **DevOps & Tools**
 <br>
@@ -62,10 +60,34 @@ Building scalable backend systems and AI-powered applications — currently deep
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-</td>
-<td width="58%" valign="top">
+<br>
 
-## 🌟 Featured Projects
+## 🤖 AI / Agentic AI Projects
+
+---
+
+**🧠 Multi-Agent Research AI** — *Live AI Application*
+<br>
+A self-improving multi-agent research assistant built with LangGraph. Specialized agents handle search, synthesis, critique, and citation — the system drafts a report, critiques its own output, and iteratively regenerates it until it converges on the strongest version, all from a single research query.
+<br>
+
+**Tech Stack**
+<br>
+`Python` `LangGraph` `LangChain` `Tavily API` `BeautifulSoup` `Streamlit`
+
+<br>
+
+**Key Features**
+- 🤝 Multi-agent orchestration (search, synthesis, critique, citation)
+- 🔁 Self-critique + regenerate loop for report quality
+- 🌐 Live web retrieval via Tavily API + BeautifulSoup
+- 🔀 Conditional routing between agents using LangGraph
+- 🖥️ Interactive Streamlit interface
+
+<br>
+
+[![Repo](https://img.shields.io/badge/📂_View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anup-png/multi-agent-research-ai)
+[![Live](https://img.shields.io/badge/🌐_Live_Demo-FF5722?style=flat-square)](https://multi-agent-research-ai-7n22.onrender.com)
 
 ---
 
@@ -95,15 +117,7 @@ An AI-powered review analysis and smart reply system built with an agentic workf
 
 ---
 
-**🛠️ ToolkitForU** — *Live Product*
-<br>
-A live, production web app — designed, developed, and deployed independently end-to-end.
-<br>
-[![Live](https://img.shields.io/badge/🌐_Live_Site-FF5722?style=flat-square)](https://toolkitforu.com)
-
----
-
-**📄 DocuMind AI**
+**📄 DocuMind AI** — *RAG Document Assistant*
 <br>
 AI-powered document assistant — upload PDFs and ask questions using Retrieval-Augmented Generation (RAG). Built with FastAPI, React, LangChain, Google Gemini, ChromaDB, and PostgreSQL.
 <br>
@@ -111,6 +125,10 @@ AI-powered document assistant — upload PDFs and ask questions using Retrieval-
 <br>
 [![Repo](https://img.shields.io/badge/📂_View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anup-png/documind-ai)
 [![Live](https://img.shields.io/badge/🌐_Live_Demo-FF5722?style=flat-square)](https://documind-ai-frontend-zw9n.onrender.com)
+
+<br>
+
+## ☕ Java Projects
 
 ---
 
@@ -121,11 +139,18 @@ Scalable College ERP backend with student management, attendance, academic sessi
 `Java` `Spring Boot` `PostgreSQL` `JPA`
 <br>
 [![Repo](https://img.shields.io/badge/📂_View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anup-png/erp-system-java)
-[![Live](https://img.shields.io/badge/🌐_Live_Demo-FF5722?style=flat-square)](#)
 
-</td>
-</tr>
-</table>
+<br>
+
+## 🌐 Web Projects
+
+---
+
+**🛠️ ToolkitForU** — *Live Product*
+<br>
+A live, production web app — designed, developed, and deployed independently end-to-end.
+<br>
+[![Live](https://img.shields.io/badge/🌐_Live_Site-FF5722?style=flat-square)](https://toolkitforu.com)
 
 <br>
 
