@@ -121,7 +121,7 @@ Scalable College ERP backend with student management, attendance, academic sessi
 <br>
 `Java` `Spring Boot` `PostgreSQL` `JPA`
 <br>
-[![Repo](https://img.shields.io/badge/📂_View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anup-png/erp-system-java)
+[![Repo](https://img.shields.io/badge/📂_View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anup-png/college-erp-java)
 
 <br>
 
