@@ -28,6 +28,7 @@ Building scalable backend systems and AI-powered applications — currently deep
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 <br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
@@ -122,6 +123,32 @@ Scalable College ERP backend with student management, attendance, academic sessi
 `Java` `Spring Boot` `PostgreSQL` `JPA`
 <br>
 [![Repo](https://img.shields.io/badge/📂_View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anup-png/college-erp-java)
+
+---
+
+**🔗 URL Shortener (Java)** — *Backend Service*
+<br>
+A URL shortening service that generates unique short links and redirects them to the original URL through simple REST APIs. PostgreSQL provides persistent storage, while a Redis cache serves frequently accessed links without repeated database lookups. The code is split into separate generation, request-handling, and persistence layers, and the whole stack runs with a single `docker compose up`.
+<br>
+
+**Tech Stack**
+<br>
+`Java` `Spring Boot` `PostgreSQL` `Redis` `Spring Data JPA` `REST APIs` `Docker`
+
+<br>
+
+**Key Features**
+- 🔗 Unique 7-character Base62 short code generation with collision checks
+- ↪️ Fast redirection through a simple `GET /{shortCode}` endpoint
+- ⚡ Redis caching (cache-aside, 24h TTL) to cut repeated database lookups
+- 🛡️ Graceful fallback to PostgreSQL if Redis is unavailable
+- 🧱 Modular layers: controller, service, repository, and code generator
+- ✅ Request validation and clean JSON error responses
+- 🐳 One-command setup with Docker Compose (app + PostgreSQL + Redis)
+
+<br>
+
+[![Repo](https://img.shields.io/badge/📂_View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anup-png/url-shortener)
 
 <br>
 
