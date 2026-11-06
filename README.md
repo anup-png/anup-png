@@ -2,9 +2,9 @@
 
 # Hi, I'm Anup Raj 👋
 
-### Software Engineer · C++ | Agentic AI Builder · Java Backend Developer
+### Software Engineer · C++ | Agentic AI Builder · Backend Developer
 
-Building scalable backend systems and AI-powered applications — currently deep in **Agentic AI, LangGraph, Java, Spring Boot, and System Design**.
+Building scalable backend systems and AI-powered applications — currently deep in **Agentic AI,C++,DSA, LangGraph, Java, Spring Boot, and System Design**.
 
 [![Website](https://img.shields.io/badge/Website-toolkitforu.com-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://toolkitforu.com)
 [![Email](https://img.shields.io/badge/Email-anups154%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anups154@gmail.com)
